@@ -1288,8 +1288,7 @@
       "name": "$format",
       "in": "query",
       "required": true,
-      "type": "string",
-      "x-ms-visibility": "internal"
+      "type": "string"
     },
     "filter": {
       "name": "$filter",
