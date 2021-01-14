@@ -1289,7 +1289,6 @@
       "in": "query",
       "required": true,
       "type": "string",
-      "default": "json",
       "x-ms-visibility": "internal"
     },
     "filter": {
